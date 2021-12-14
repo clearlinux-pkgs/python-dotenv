@@ -4,7 +4,7 @@
 #
 Name     : python-dotenv
 Version  : 0.19.2
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/49/62/4f25667e10561303a34cb89e3187c35985c0889b99f6f1468aaf17fbb03e/python-dotenv-0.19.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/49/62/4f25667e10561303a34cb89e3187c35985c0889b99f6f1468aaf17fbb03e/python-dotenv-0.19.2.tar.gz
 Summary  : Read key-value pairs from a .env file and set them as environment variables
